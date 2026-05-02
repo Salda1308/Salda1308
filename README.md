@@ -52,7 +52,7 @@ Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Franci
 
 ## 💼 Experiencia y Trayectoria
 
-<img align="right" alt="GIF" height="170px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZmNHh1NGh3ZDhsNnpseDdoMjE5YXZrZmIweXUyZXBuZHR1cTFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="GIF" width="280px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZmNHh1NGh3ZDhsNnpseDdoMjE5YXZrZmIweXUyZXBuZHR1cTFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 *   **Líder de Proyectos y Desarrollo Tecnológico** @ *Sociedad de Innovación y Desarrollo (SID)* (2023 - Presente)
     *   Dirección y desarrollo de aplicativos web integrando ecosistemas front-end y back-end.
@@ -61,7 +61,7 @@ Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Franci
 *   **Investigador** @ *Grupo de Investigación Complex (U. Distrital)* (2026 - Presente)
     *   Generación de impacto y expansión académica en entornos innovadores.
 
----
+<br clear="both">
 
 ## 📊 Mis Estadísticas
 
