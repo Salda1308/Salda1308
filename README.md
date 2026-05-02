@@ -58,8 +58,6 @@ Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Franci
     *   Dirección y desarrollo de aplicativos web integrando ecosistemas front-end y back-end.
 *   **Desarrollador Web y Diseñador** @ *Naranjo Abogados* (2025 - Presente)
     *   Desarrollo de soluciones web corporativas, estrategias de marketing digital y producción audiovisual.
-*   **Investigador** @ *Grupo de Investigación Complex (U. Distrital)* (2026 - Presente)
-    *   Generación de impacto y expansión académica en entornos innovadores.
 
 <br clear="both">
 
