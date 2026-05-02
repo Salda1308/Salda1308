@@ -66,18 +66,13 @@ Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Franci
 ## 📊 Mis Estadísticas
 
 <p align="center">
-  <!-- Tarjeta de Racha (Súper estable) -->
+  <!-- Tarjeta de Racha (La que ya te funciona) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salda1308&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Estadísticas generales (Sin parámetros que generen error) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Salda1308&show_icons=true&theme=tokyonight&hide_border=true" alt="Mis Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salda1308&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <!-- Gráfico de Actividad en GitHub (Gráfico de líneas) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salda1308&bg_color=1a1b27&color=7aa2f7&line=3d59a1&point=7aa2f7&area=true&hide_border=true" alt="Gráfico de Actividad" />
 </p>
 
 <div align="center">
