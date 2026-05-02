@@ -52,7 +52,7 @@ Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Franci
 
 ## 💼 Experiencia y Trayectoria
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZmNHh1NGh3ZDhsNnpseDdoMjE5YXZrZmIweXUyZXBuZHR1cTFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 *   **Líder de Proyectos y Desarrollo Tecnológico** @ *Sociedad de Innovación y Desarrollo (SID)* (2023 - Presente)
     *   Dirección y desarrollo de aplicativos web integrando ecosistemas front-end y back-end.
