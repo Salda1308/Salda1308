@@ -1,21 +1,20 @@
 <!-- Banner animado de presentación -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola!%20Soy%20David%20Santiago&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20|%20Data%20Science%20|%20Desarrollo%20Web&descAlignY=51&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002b5e&height=250&section=header&text=¡Hola!%20Soy%20David%20Santiago&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20|%20Data%20Science%20|%20Desarrollo%20Web&descAlignY=60&descAlign=50&fontColor=ffffff" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F0FF&size=22&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+Machine+Learning+e+IA;Desarrollador+Web+y+Diseñador;Líder+de+Proyectos+Tecnológicos;Siempre+buscando+aprender+algo+nuevo..." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=002b5e&size=22&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+Machine+Learning+e+IA;Desarrollador+Web+y+Diseñador;Líder+de+Proyectos+Tecnológicos;Siempre+buscando+aprender+algo+nuevo..." alt="Typing SVG">
   </a>
 </p>
 
 <!-- Sobre Mí -->
 ## 👨🏻‍💻 Sobre Mí
 
-Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Francisco José de Caldas, con un fuerte enfoque en **Ciencia de Datos, Machine Learning y Diseño de Soluciones Tecnológicas**. Me apasiona resolver problemas complejos combinando una base analítica sólida con metodologías ágiles.
+Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Francisco José de Caldas, con un fuerte enfoque en **Ciencia de Datos, Machine Learning y Diseño de Soluciones Tecnológicas**. Me apasiona la resolución de problemas complejos mediante el análisis de datos y el desarrollo de aplicativos útiles para la comunidad.
 
 - 🔭 Actualmente trabajo como **Líder de Proyectos y Desarrollo Tecnológico** en la SID y como **Desarrollador Web Freelance** en Naranjo Abogados.
 - 🌱 Profundizando constantemente en **Inteligencia Artificial, automatización de flujos de trabajo y Ciberseguridad** (con certificaciones de Google e IBM).
 - 🏆 **Logros destacados:** 1er Puesto en la Hackatón SLUD Fintech (2025) y 2do Puesto en la Hackathon LogView360 del Banco de Occidente.
-- ⚡ **Dato curioso:** Cuando no estoy programando, me gusta explorar la producción audiovisual, el branding, entrenar en el gimnasio o participar en deportes de aventura como el rafting.
 
 ---
 
@@ -45,7 +44,7 @@ Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Franci
 <p align="left">
   <strong>Diseño y Audiovisual</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,pr,ae,md&perline=10" alt="Design Tools" />
+    <img src="https://skillicons.dev/icons?i=illustrator,photoshop,pr,ae&perline=10" alt="Design Tools" />
   </a>
 </p>
 
@@ -64,21 +63,20 @@ Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Franci
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Mis Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
+| Company Affiliation | Lines of Code Changes |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 ---
 
 <div align="center">
   <h2>📫 Conecta conmigo</h2>
-  <a href="mailto:dsaldanag@udistrital.edu.co">
+  <a href="mailto:dg3651251@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/TU_ENLACE_AQUI">
+  <a href="https://www.linkedin.com/in/david-aldana-4a632a20a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
