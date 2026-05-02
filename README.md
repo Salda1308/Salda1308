@@ -65,11 +65,13 @@ Soy **estudiante de Ingeniería de Sistemas** en la Universidad Distrital Franci
 
 ## 📊 Mis Estadísticas
 
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salda1308&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mis Estadísticas de GitHub" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salda1308&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
 <div align="center">
   <h2>📫 Conecta conmigo</h2>
